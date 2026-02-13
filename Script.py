@@ -1,10 +1,15 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
-
-<b>ʜᴇʏ {}, {}</b>
-
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
-"""
+    START_TXT = """<b>ʜᴇʏ {}, {}</b>
+    
+<b>🎬 Welcome to Telegram No 1 Movies Webseries OTT Search Engine🥂<b>
+<b>✦ ⚡️ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ ⚡️</b>.
+<b>🍿 ✦ ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀʟʟ ᴍᴏᴠɪᴇs ᴀɴᴅ ᴡᴇʙ sᴇʀɪᴇs 🎬</b>  
+<b>🔎 ✦ ᴊᴜsᴛ sᴇɴᴅ ᴛʜᴇ ɢᴏᴏɢʟᴇ sᴘᴇʟʟɪɴɢ</b>
+<b>🇮🇳 ✦ ᴊᴏ ʙʜɪ ᴍᴏᴠɪᴇ/ᴡᴇʙsᴇʀɪᴇs ᴅᴇᴋʜɴᴀ ʜᴏ ᴇɴɢʟɪsʜ ᴍᴇɴ ᴜsᴋᴀ ɴᴀᴀᴍ ʙʜᴇᴊᴇ</b>
+<b> •─────•─────────•─────•</b>
+<blockquote><b>🇮🇳 Bot नाम के नीचे अगर विज्ञापन (ads) दिखे तो उस पर क्लिक कर दे.</b></blockquote>
+<blockquote><b>Click on bots banner below the name of bot </b>.</blockquote>
+<b>•─────•─────────•─────•</b>"""
 
 
     GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
@@ -24,14 +29,17 @@ class script(object):
 
 📌 ꜰᴏʀ ꜱᴇʀɪᴇꜱ:  
 ➤ ᴅʀᴀᴍᴀ ɴᴀᴍᴇ + S01 (ꜰᴏʀ ꜱᴇᴀꜱᴏɴ 1, ᴄʜᴀɴɢᴇ ꜰᴏʀ ᴏᴛʜᴇʀꜱ)  
-
 📌 ꜰᴏʀ ʜɪɴᴅɪ ᴅʀᴀᴍᴀꜱ:  
 ➤ ᴅʀᴀᴍᴀ ɴᴀᴍᴇ + ʜɪɴᴅɪ  
-
 📌 ꜰᴏʀ ᴍᴏᴠɪᴇꜱ:  
 ➤ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ + ʏᴇᴀʀ (ᴇx: ᴊᴏᴋᴇʀ 2019)  
 
 🚀 ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ!
+<blockquote>
+1️⃣ Search the correct title on Google.
+2️⃣ Send the exact name in English to the bot/group.
+3️⃣ Follow the given request format properly.
+</blockquote></b>
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
