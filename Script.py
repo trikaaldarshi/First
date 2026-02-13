@@ -39,8 +39,7 @@ class script(object):
 1️⃣ Search the correct title on Google.
 2️⃣ Send the exact name in English to the bot/group.
 3️⃣ Follow the given request format properly.
-</blockquote></b>
-</b>"""
+</blockquote></b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
