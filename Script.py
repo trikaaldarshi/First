@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>ʜᴇʏ {}, {}</b>
     
-<b>🎬 Welcome to Telegram No 1 Movies Webseries OTT Search Engine🥂<b>
+<b>🎬 Welcome to Telegram No 1 Movies Webseries OTT Search Engine🥂</b>
 <b>✦ ⚡️ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ ⚡️</b>.
 <b>🍿 ✦ ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀʟʟ ᴍᴏᴠɪᴇs ᴀɴᴅ ᴡᴇʙ sᴇʀɪᴇs 🎬</b>  
 <b>🔎 ✦ ᴊᴜsᴛ sᴇɴᴅ ᴛʜᴇ ɢᴏᴏɢʟᴇ sᴘᴇʟʟɪɴɢ</b>
@@ -437,6 +437,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
     VERIFICATION_TEXT = """<b><i>👋 ʜᴇʏ {},
 
 📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ.
+आप आज के लिए वेरीफाइड नहीं है , नीचे दिए गए बटन पर क्लिक करे.
 
 #ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓
 
@@ -445,7 +446,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
     VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
 
-ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 1ꜱᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓
+ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 1ꜱᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓, आप वेरिफाइड हो चुके हो, नीचे दिए बटन पर क्लिक करे और फाइल प्राप्त करे.
 
 ɴᴏᴡ ʏᴏᴜ ʜᴀᴠᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ɴᴇxᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ.</i></b>"""
 
