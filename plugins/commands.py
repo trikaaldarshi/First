@@ -111,7 +111,7 @@ async def start(client, message):
                         InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
                         InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about')
                     ],[
-                        InlineKeyboardButton('Backup(बैकअप)', url=f'https://t.me/iPopcornbotNews'),
+                        InlineKeyboardButton('Backup(बैकअप)', url='https://t.me/iPopcornbotNews'),
                         InlineKeyboardButton('ᴜᴘɢʀᴀᴅᴇ 🎟', callback_data="premium_info"),
                     ]]
             reply_markup = InlineKeyboardMarkup(buttons)
@@ -144,7 +144,7 @@ async def start(client, message):
                         InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
                         InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about')
                     ],[
-                        InlineKeyboardButton('Backup(बैकअप)', url=f'https://t.me/cinbox),
+                        InlineKeyboardButton('Backup(बैकअप)', url='https://t.me/cinbox'),
                         InlineKeyboardButton('ᴜᴘɢʀᴀᴅᴇ 🎟', callback_data="premium_info"),
                     ]]
             reply_markup = InlineKeyboardMarkup(buttons)
